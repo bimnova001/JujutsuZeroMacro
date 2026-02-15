@@ -43,3 +43,4 @@ It automates actions for the **Toji Raid** boss fight.
 ## recommend 
 1. Good network 
 2. Lv. 750 + or whateven that can one shot 
+---
