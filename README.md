@@ -25,10 +25,12 @@ It automates actions for the **Toji Raid** boss fight.
 ---
 ## Installation
 
-1. Download and install [AutoHotkey](https://www.autohotkey.com/)  
-2. Place the `JujutsuZeroMacro.ahk` file in your desired folder  
-3. Double-click the `.ahk` file to run the macro  
-
+1.1 Download and install [AutoHotkey](https://www.autohotkey.com/)  
+1.2 Place the `.ahk` file in your desired folder  
+1.3 Double-click the `.ahk` file to run the macro 
+Or 
+2.1 Downlaod .exe
+2.2 Run
 ---
 
 ## Usage
