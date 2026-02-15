@@ -1,6 +1,6 @@
 # Jujutsu Zero Raid Macro
 
-**Version:** 1.0  
+**Version:** 1.1
 
 This is an **AutoHotkey Macro** for the game **Jujutsu Zero (Raid)**.  
 It automates actions for the **Toji Raid** boss fight.
@@ -11,8 +11,9 @@ It automates actions for the **Toji Raid** boss fight.
 
 - Press **N** to **lock-on the target**  
 - Smooth camera rotation for proper positioning  
-- Automatic skill usage: **Gojo Skill C** and **Sukuna Skill C**  
-- Click **Raid** positions and **Retry** automatically  
+- Automatic skill usage: **Gojo Skill C** and **Sukuna Skill C**
+- Click **Raid** positions and **Retry** automatically
+- ImageSearch check is game start ?
 
 ---
 
@@ -39,4 +40,6 @@ It automates actions for the **Toji Raid** boss fight.
 5. Press **Esc** to exit the program  
 
 ---
-
+## recommend 
+1. Good network 
+2. Lv. 750 + or whateven that can one shot 
