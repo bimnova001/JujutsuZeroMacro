@@ -31,6 +31,7 @@ It automates actions for the **Toji Raid** boss fight.
 Or 
 2.1 Downlaod .exe
 2.2 Run
+
 ---
 
 ## Usage
