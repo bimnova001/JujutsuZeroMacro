@@ -13,8 +13,6 @@ It automates actions for the **Toji Raid** boss fight.
 - Smooth camera rotation for proper positioning  
 - Automatic skill usage: **Gojo Skill C** and **Sukuna Skill C**  
 - Click **Raid** positions and **Retry** automatically  
-- **Boss color detection** using PixelSearch within a defined rectangle  
-- GUI displays **macro status** in real-time  
 
 ---
 
